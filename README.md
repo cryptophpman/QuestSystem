@@ -1,6 +1,6 @@
 # 🏆 QuestSystem - Advanced Quest Plugin for Minecraft
 
-![Banner](https://topkvestov.ru/storage/app/uploads/public/60a/3a2/740/60a3a27405a93571460415.jpg)  
+![Banner](<img width="1918" height="1058" alt="image" src="https://github.com/user-attachments/assets/e63797c9-6747-4cda-b859-3713c195f6d7" />)  
 *"Transform your server with engaging quests and rewards!"*
 
 ---
