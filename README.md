@@ -12,7 +12,7 @@
 > **Stable release expected:** 01.08.2025
 
 [![GitHub Issues](https://img.shields.io/github/issues/cryptophpman/QuestSystem?color=red)](https://github.com/cryptophpman/QuestSystem/issues)
-[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ---
 
