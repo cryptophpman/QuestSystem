@@ -1,0 +1,12 @@
+name: QuestSystem
+main: abcdef\QuestSystem
+api: 5.0.0
+version: 1.0.0
+author: abcdef aka CryptoWoman
+permissions:
+  quest.command:
+    default: true
+  quest-settings.command:
+    default: op
+depend:
+  - FormConstructor
