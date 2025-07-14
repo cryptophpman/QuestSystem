@@ -1,2 +1,2 @@
 # QuestSystem
-[https://lpc.mir-kvestov.ru/uploads/quests/19646/original/bagira_minecraft_photo1.jpeg?1672325406](https://lpc.mir-kvestov.ru/uploads/quests/19646/original/bagira_minecraft_photo1.jpeg?1672325406)
+![Bagira Minecraft](https://topkvestov.ru/storage/app/uploads/public/60a/3a2/740/60a3a27405a93571460415.jpg)
