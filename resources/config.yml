@@ -1,0 +1,61 @@
+---
+#
+#  ________   ____ ______________ ____________________
+#  \_____  \ |    |   \_   _____//   _____/\__    ___/
+#  /  / \  \|    |   /|    __)_ \_____  \   |    |
+#  /   \_/.  \    |  / |        \/        \  |    |
+#  \_____\ \_/______/ /_______  /_______  /  |____|
+#  \__>                \/        \/
+#
+# Author: ABCDEF aka CryptoWoman
+# GitHub Link: https://github.com/cryptophpman/QuestSystem
+# License: Apache License 2.0
+# Have a good use
+#
+#
+###########################################################
+## INFO:
+## Values such as {TEST} can be used in those config items
+## Where are they listed
+###########################################################
+
+buttons:
+  create:
+    quest-name: "Quest name:"
+    quest-name-placeholder: "kill 10 creepers"
+    block-id: "Block/Entity id:"
+    block-id-placeholder: "dirt"
+  # for all
+  create-new-quest: "Create new quest"
+  start-execution: "Start execution"
+  exit: "Exit"
+  quest-settings: "Quest settings"
+
+# Titles is meant as the name of the form, the text above the form
+titles:
+  create-quest: "Create quest"
+  quest-detail: "Quest detail"
+  quest-settings: "Quest settings"
+  quest-list: "Quests list"
+  quest-menu: "Quest menu"
+
+# Content of the form, text below the title
+contents:
+  # {NAME} - What needs to be obtained, quest name
+  # {COUNT} - The amount of what needs to be obtained
+  quest-detail: "{NAME} in count {COUNT}"
+  # The values {NAME} and {COUNT} no longer work!
+  quest-settings: "The values {NAME} and {COUNT} no longer work!"
+  quest-list: "Quest list content"
+  quest-menu: "Select button"
+
+messages:
+  empty-parameter: "You have specified empty data in some parameter"
+  quest-created: "The quest was successfully created"
+  error-load-quest: "Quest loading error"
+  took-quest: "You have successfully completed the quest"
+  quest-remove: "You have successfully deleted the quest"
+
+# Permission to manage (create, etc.) quests
+quest-panel-permission: "quest-settings.command"
+...
